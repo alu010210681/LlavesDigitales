@@ -1,0 +1,2 @@
+Polimorfismo para trabajar como "Llave" los elementos
+pero que en si esten divididos entre llaves de usuarios premium u otros.

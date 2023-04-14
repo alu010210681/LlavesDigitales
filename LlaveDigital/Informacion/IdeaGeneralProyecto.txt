@@ -1,0 +1,4 @@
+Idea del servicio:
+    - Abrir la aplicacion y poder gestionar los datos de cada llave
+    - Cuando el programa se cierre se guardara la informacion de las llaves de forma
+      encriptada para poder iniciar el programa con los mismos valores guardados.
